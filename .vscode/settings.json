@@ -1,0 +1,9 @@
+{
+	"python.autoComplete.extraPaths": [
+		"./Pthon"
+	],
+	"python.analysis.extraPaths": [
+		"./Pthon"
+	],
+	"python.formatting.provider": "black"
+}
